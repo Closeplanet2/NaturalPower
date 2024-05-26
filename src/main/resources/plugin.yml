@@ -1,0 +1,5 @@
+name: NaturalPower
+version: 1.0.0-SNAPSHOT
+main: com.pandapulsestudios.naturalpower.NaturalPower
+api-version: 1.20
+depend: [PulseConfig, PulseCommands, PulseCore]
